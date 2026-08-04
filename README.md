@@ -1,6 +1,18 @@
 # Stalker Portal Checker
 Stalker portal checker and simple player
 
-<img width="1916" height="1149" alt="image" src="https://github.com/user-attachments/assets/0010b48f-1f66-41a0-8cb4-0089744abbb7" />
+Paste or load in your stb stalker lines. 
+Cleaned lines will be shown in the right column.
+Click "Check playlists" to open the playlist lists screen.
+Click individual lines to check or click "Check playlists to check all".
+Once a line has been checked you can view this line and play the available streams. 
 
-<img width="1919" height="1148" alt="image" src="https://github.com/user-attachments/assets/5aa68485-8ab2-426f-9c9c-6dfc33ecd2c8" />
+This plugin does not contain any playlists. 
+
+Multi language. Dark or light mode. Favourites list. 
+
+<img width="1916" height="1124" alt="image" src="https://github.com/user-attachments/assets/346f5793-f9a6-480b-985c-f79e5e8d8366" />
+
+<img width="1911" height="1146" alt="image" src="https://github.com/user-attachments/assets/43696bb7-2e94-4141-acae-b1729fe96dcf" />
+
+
