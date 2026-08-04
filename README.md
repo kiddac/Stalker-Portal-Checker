@@ -2,9 +2,13 @@
 Stalker portal checker and simple player
 
 Paste or load in your stb stalker lines. 
+
 Cleaned lines will be shown in the right column.
+
 Click "Check playlists" to open the playlist lists screen.
+
 Click individual lines to check or click "Check playlists to check all".
+
 Once a line has been checked you can view this line and play the available streams. 
 
 This plugin does not contain any playlists. 
