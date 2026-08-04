@@ -9,7 +9,7 @@ Once a line has been checked you can view this line and play the available strea
 
 This plugin does not contain any playlists. 
 
-Multi language. Dark or light mode. Favourites list. 
+Multi language. Dark or light mode. Favourites list. EPG for channels that has the data.
 
 <img width="1916" height="1124" alt="image" src="https://github.com/user-attachments/assets/346f5793-f9a6-480b-985c-f79e5e8d8366" />
 
